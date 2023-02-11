@@ -7,4 +7,4 @@ assignees: ''
 
 ---
 
-@jwklong Open [https://blogname.blogspot.com](Website)
+@jwklong Open [Website](https://blogname.blogspot.com)
